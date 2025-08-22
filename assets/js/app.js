@@ -1,5 +1,5 @@
 // Ses News frontend script
-window.API_URL = "YOUR_WEB_APP_URL_HERE";
+window.API_URL = "https://script.google.com/macros/s/AKfycbyjeltLwzn14tM2D3RpcjIXLeF-wHXFuPPJcHTcxlr0wxbNXahDyTTWrMbk3Uzkn8k/exec";
 
 async function fetchJSON(url) {
   const proxy = "https://api.allorigins.win/get?url=" + encodeURIComponent(url);
