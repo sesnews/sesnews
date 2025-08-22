@@ -1,0 +1,6 @@
+body { background: #fff; color: #000; font-family: sans-serif; line-height: 1.6; margin: 0; padding: 0; }
+header, footer { background: #f0f0f0; padding: 10px; text-align: center; }
+nav a { margin: 0 10px; text-decoration: none; color: #000; }
+section { padding: 10px; border-bottom: 1px solid #ddd; }
+.news-item { margin-bottom: 15px; }
+.news-item h2 { margin: 0; font-size: 1.2em; }
